@@ -1,0 +1,2 @@
+javac --module-path (path)\javafx-sdk-21\lib --add-modules javafx.controls ChatApplication.java 
+java --module-path (path)\JavaFX\javafx-sdk-21\lib --add-modules javafx.controls,javafx.fxml ChatApplication
